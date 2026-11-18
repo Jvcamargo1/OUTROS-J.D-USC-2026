@@ -10,6 +10,10 @@ Trabalho individual da disciplina **Desenvolvimento de Jogos Digitais**, do curs
 
 ---
 
+Download da Build executavel em: https://github.com/Jvcamargo1/OUTROS-J.D-USC-2026/releases/tag/Build
+
+---
+
 ## Como jogar
 
 | Ação | Controle |
